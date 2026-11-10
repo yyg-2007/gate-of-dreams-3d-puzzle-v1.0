@@ -1,0 +1,7 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# macOS AppleDouble 元数据（exFAT）
+._*
